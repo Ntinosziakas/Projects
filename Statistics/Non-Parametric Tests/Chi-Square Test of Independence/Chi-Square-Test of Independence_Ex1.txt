@@ -1,0 +1,169 @@
+MaEast Outlet	Budget
+East Outlet	Mid-Range
+West Outlet	High Fashion
+South Outlet	Budget
+South Outlet	High Fashion
+East Outlet	Mid-Range
+West Outlet	Mid-Range
+East Outlet	High Fashion
+West Outlet	Mid-Range
+East Outlet	High Fashion
+West Outlet	High Fashion
+West Outlet	Mid-Range
+East Outlet	High Fashion
+South Outlet	Budget
+West Outlet	Mid-Range
+East Outlet	Mid-Range
+East Outlet	High Fashion
+East Outlet	Mid-Range
+West Outlet	High Fashion
+South Outlet	High Fashion
+South Outlet	High Fashion
+West Outlet	High Fashion
+South Outlet	High Fashion
+East Outlet	Mid-Range
+South Outlet	Mid-Range
+East Outlet	High Fashion
+East Outlet	Mid-Range
+South Outlet	Budget
+West Outlet	Budget
+West Outlet	Budget
+West Outlet	High Fashion
+East Outlet	Budget
+West Outlet	High Fashion
+West Outlet	Budget
+South Outlet	Budget
+South Outlet	Mid-Range
+West Outlet	Mid-Range
+East Outlet	Mid-Range
+West Outlet	Mid-Range
+West Outlet	High Fashion
+East Outlet	Budget
+East Outlet	Mid-Range
+East Outlet	High Fashion
+West Outlet	High Fashion
+West Outlet	High Fashion
+East Outlet	High Fashion
+South Outlet	High Fashion
+East Outlet	High Fashion
+East Outlet	Mid-Range
+East Outlet	Mid-Range
+West Outlet	High Fashion
+East Outlet	Budget
+South Outlet	Mid-Range
+South Outlet	High Fashion
+East Outlet	Mid-Range
+West Outlet	High Fashion
+South Outlet	Mid-Range
+East Outlet	High Fashion
+South Outlet	High Fashion
+West Outlet	High Fashion
+East Outlet	High Fashion
+West Outlet	Budget
+East Outlet	Mid-Range
+South Outlet	Budget
+West Outlet	Budget
+East Outlet	Budget
+South Outlet	High Fashion
+South Outlet	High Fashion
+South Outlet	High Fashion
+South Outlet	High Fashion
+West Outlet	High Fashion
+East Outlet	Mid-Range
+East Outlet	Mid-Range
+West Outlet	Mid-Range
+West Outlet	Budget
+East Outlet	Budget
+East Outlet	Budget
+West Outlet	Mid-Range
+West Outlet	High Fashion
+East Outlet	Mid-Range
+West Outlet	Mid-Range
+East Outlet	Budget
+East Outlet	High Fashion
+East Outlet	High Fashion
+East Outlet	High Fashion
+East Outlet	Mid-Range
+South Outlet	High Fashion
+South Outlet	Budget
+East Outlet	Budget
+West Outlet	High Fashionle	Product D
+Male	Product B
+Male	Product D
+Male	Product A
+Male	Product B
+Male	Product D
+Male	Product A
+Male	Product B
+Female	Product C
+Male	Product B
+Female	Product C
+Female	Product C
+Male	Product B
+Female	Product B
+Male	Product B
+Female	Product C
+Male	Product D
+Male	Product A
+Male	Product C
+Male	Product A
+Female	Product A
+Male	Product D
+Male	Product D
+Male	Product D
+Male	Product B
+Female	Product C
+Female	Product C
+Female	Product D
+Female	Product C
+Female	Product C
+Male	Product B
+Male	Product B
+Male	Product C
+Male	Product B
+Male	Product D
+Male	Product C
+Female	Product A
+Male	Product C
+Female	Product C
+Male	Product D
+Female	Product B
+Female	Product D
+Male	Product B
+Male	Product C
+Female	Product D
+Male	Product C
+Male	Product C
+Male	Product B
+Male	Product C
+Male	Product D
+Female	Product A
+Female	Product C
+Male	Product C
+Male	Product B
+Male	Product C
+Male	Product B
+Male	Product C
+Male	Product B
+Female	Product C
+Male	Product C
+Female	Product D
+Male	Product C
+Male	Product D
+Male	Product D
+Female	Product B
+Female	Product C
+Female	Product B
+Female	Product C
+Female	Product B
+Female	Product A
+Female	Product C
+Female	Product C
+Female	Product D
+Female	Product B
+Female	Product B
+Female	Product B
+Female	Product B
+Female	Product D
+Female	Product C
+Male	Product B
