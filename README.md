@@ -1,2 +1,2 @@
 # Projects
-Projects regarding Statistics &amp; Machine Learning
+Projects regarding Statistics
