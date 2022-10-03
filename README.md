@@ -1,2 +1,2 @@
 # Projects
-Projects regarding Statistics
+Projects regarding Statistics using SQL, Jupyter and R
