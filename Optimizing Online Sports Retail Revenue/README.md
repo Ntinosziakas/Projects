@@ -2,7 +2,7 @@
 
 Sports clothing and athleisure attire is a huge industry, worth approximately $193 billion in 2021 with a strong growth forecast over the next decade!
 
-##Project Description
+## Project Description
 Sports clothing is a booming sector!
 
 In this notebook, I will use SQL to analyze product data for an online sports retail company.
@@ -11,7 +11,7 @@ I will work with numeric, string, and timestamp data on pricing and revenue, rat
 
 I will use techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue!
 
-##Project Tasks
+## Project Tasks
 1. Counting missing values
 2. Nike vs Adidas pricing
 3. Labeling price ranges
